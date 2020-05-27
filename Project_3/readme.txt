@@ -1,1 +1,1 @@
-Another project with gulp, BEM, bootstrap, sass
+Another project with gulp, BEM, bootstrap, scss
